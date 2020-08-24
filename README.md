@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -98,6 +99,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# DarkMode
+>>>>>>> ab2bf7331f2e6a4a2c4d15bd9bb11849919bb15b
 =======
 # DarkMode
 >>>>>>> ab2bf7331f2e6a4a2c4d15bd9bb11849919bb15b
